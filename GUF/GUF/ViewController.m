@@ -19,6 +19,7 @@
     NSLog(@"FGSDE");
     NSLog(@"sfd");
     NSLog(@"sf");
+    NSLog(@"hhhhhhh");
 }
 
 - (void)didReceiveMemoryWarning {
