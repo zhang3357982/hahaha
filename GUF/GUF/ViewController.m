@@ -20,6 +20,7 @@
     NSLog(@"sfd");
     NSLog(@"sf");
     NSLog(@"hhhhhhh");
+    NSLog(@"jia");
 }
 
 - (void)didReceiveMemoryWarning {
