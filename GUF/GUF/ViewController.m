@@ -18,6 +18,7 @@
     [super viewDidLoad];
     NSLog(@"FGSDE");
     NSLog(@"sfd");
+    NSLog(@"sf");
 }
 
 - (void)didReceiveMemoryWarning {
